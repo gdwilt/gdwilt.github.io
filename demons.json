@@ -1,0 +1,36 @@
+{
+    "demons": [
+        {
+            "lvlName": "Fragile",
+            "lvlID": 1,
+            "author": "Charllote & more",
+            "verifier": "Waira",
+            "url": "LMz4Y3gZlYE",
+
+            "levelInfo": {
+                "songID": "1",
+                "objects": "200",
+                "length": "3:01",
+                "version": "2.2",
+                "password": "Нет пароля",
+                "points": "100"
+            }
+        },
+        {
+            "lvlName": "NNLevel",
+            "lvlID": 2,
+            "author": "NNCreator",
+            "verifier": "NNSlayer",
+            "url": "LMz4Y3gZlYE",
+
+            "levelInfo": {
+                "songID": "1",
+                "objects": "200",
+                "length": "3:01",
+                "version": "2.2",
+                "password": "Нет пароля",
+                "points": "100"
+            }
+        }
+    ]
+}

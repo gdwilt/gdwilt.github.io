@@ -1,0 +1,14 @@
+{
+    "admins": [
+        {
+            "userName": "Charlotte",
+            "bio": "Владелец сервера, главный кодер",
+            "img": "char"
+        },
+        {
+            "userName": "Waira",
+            "bio": "Модератор листов",
+            "img": "waira"
+        }
+    ]
+}
