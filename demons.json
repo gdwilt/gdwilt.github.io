@@ -1,5 +1,5 @@
 {
-    "demons": [
+    "levels": [
         {
             "lvlName": "Fragile",
             "lvlID": 1,
@@ -13,7 +13,7 @@
                 "length": "3:01",
                 "version": "2.2",
                 "password": "Нет пароля",
-                "points": "100"
+                "points": 100
             }
         },
         {
@@ -29,7 +29,7 @@
                 "length": "3:01",
                 "version": "2.2",
                 "password": "Нет пароля",
-                "points": "100"
+                "points": 100
             }
         }
     ]
